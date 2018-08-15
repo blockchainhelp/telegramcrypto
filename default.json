@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mysql": "mysql://root:@localhost:3306/sportslab",
+  "public": "../public/",
+  "auth": {
+    "idField": "id",
+    "token": {
+      "secret": "zwvA4qQzV9zw4Osn1jFUexA7i8Fgkb55+DGOHK5LPH5OZPQfjogkAD1rFxOV/MprzK1c1QbErvvD+UIjp/JPtQ=="
+    },
+    "local": {}
+  }
+}
